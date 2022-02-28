@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "nom":"BOP",
+            "prenom":"Aliou",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"12"
+        },
+        {
+            "nom":"NDIAYE",
+            "prenom":"Adama",
+            "login":"admin@gmail.com",
+            "password":"admin",
+            "role":"ROLE_ADMIN",
+            "score":"0"
+
+        },
+        {
+            "nom":"FAYE",
+            "prenom":"Adam",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"10"
+        }
+    ],
+    "queqtion":[
+        {
+              
+        }
+    ]
+}
