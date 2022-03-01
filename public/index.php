@@ -1,4 +1,11 @@
 <?php
+/**
+ * Demarrage de la session:
+ */
+if (session_status()==PHP_SESSION_NONE) {
+    session_start();
+}
+
 // Inclusion des constantes
 require_once (dirname(dirname(__FILE__))."/config/constantes.php") ;
 
