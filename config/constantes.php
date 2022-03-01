@@ -23,3 +23,11 @@ define("PATH_DB",ROOT."data".DIRECTORY_SEPARATOR."db.json");
  * Requett POST et GET:
  */
 define("WEB_ROOT","http://localhost:8002/");
+/**
+ * Les cles d'erreur
+ */
+define("KEY_ERROR","error");
+/**
+ * Cles d'acces à l'utilisateur connecter
+ */
+define("KEY_USERS_CONNECT","users-connect");
