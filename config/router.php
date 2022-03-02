@@ -2,7 +2,7 @@
 <?php
 // var_dump($_REQUEST);
 if (isset($_REQUEST['controllers'])) {
-    switch ($REQUEST['controllers']){
+    switch ($_REQUEST['controllers']){
         case 'securites':
             require_once(PATH_SRC."controllers/securites.controllers.php");
             break;
