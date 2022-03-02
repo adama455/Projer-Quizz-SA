@@ -2,8 +2,8 @@
 <?php
 ///REcuperation des donnees du fichier
 function json_to_array(string $key):array{
-    $datajson = (file_get_contents(PATH_DB));
-    $data = json_decode($json,true);
+    $datajson = file_get_contents(PATH_DB);
+    $data = json_decode($datajson,true);
     return $data[$key];
 }
 
