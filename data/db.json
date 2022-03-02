@@ -24,7 +24,16 @@
             "password":"joueur",
             "role":"ROLE_JOUEUR",
             "score":"10"
+        },
+        {
+            "nom":"DIOP",
+            "prenom":"Dame",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
         }
+        
     ],
     "queqtion":[
         {
