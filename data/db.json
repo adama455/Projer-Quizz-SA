@@ -32,8 +32,124 @@
             "password":"joueur",
             "role":"ROLE_JOUEUR",
             "score":"5"
+        },
+        {
+            "nom":"DIOP",
+            "prenom":"Modou",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
+        }, {
+            "nom":"DIOP",
+            "prenom":"Ousmane",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
+        },
+        {
+            "nom":"DIOP",
+            "prenom":"Dame",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
+        },
+        {
+            "nom":"DIOP",
+            "prenom":"Modou",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
+        }, {
+            "nom":"DIOP",
+            "prenom":"Ousmane",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
+        },
+        {
+            "nom":"DIOP",
+            "prenom":"Dame",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
+        },
+        {
+            "nom":"DIOP",
+            "prenom":"Modou",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
+        }, {
+            "nom":"DIOP",
+            "prenom":"Ousmane",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
+        },
+        {
+            "nom":"DIOP",
+            "prenom":"Dame",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
+        },
+        {
+            "nom":"DIOP",
+            "prenom":"Modou",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
+        }, {
+            "nom":"DIOP",
+            "prenom":"Ousmane",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
+        },
+        {
+            "nom":"DIOP",
+            "prenom":"Dame",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
+        },
+        {
+            "nom":"DIOP",
+            "prenom":"Modou",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
+        }, 
+        {
+            "nom":"DIOP",
+            "prenom":"Ousmane",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
+        },
+        {
+            "nom":"DIOP",
+            "prenom":"Ousmane",
+            "login":"joueur@gmail.com",
+            "password":"joueur",
+            "role":"ROLE_JOUEUR",
+            "score":"5"
         }
-        
+
     ],
     "queqtion":[
         {
