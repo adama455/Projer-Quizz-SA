@@ -38,7 +38,7 @@ function connexion(string $login, string $password):void{
     champ_obligatoire('login',$login,$error,"login obligatoire");
 
     if (count($error)==0) {
-        valid_email('loing', $login,$error);
+        valid_email('login', $login,$error);
     }
 
     champ_obligatoire('password',$password,$error,"password obligatoire");

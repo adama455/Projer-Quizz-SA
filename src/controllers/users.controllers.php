@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD']=="POST") {
 if ($_SERVER['REQUEST_METHOD']=="GET") {
     if (isset($_REQUEST['action'])) {
         if (!is_connect()) {
-            header('location:'.WEB_ROOT."?controller=securites&action=connexion");
+            header('location:'.WEB_ROOT);
             exit();
         }
         if ($_REQUEST['action']=="accueil") {
