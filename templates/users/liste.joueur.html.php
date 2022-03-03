@@ -1,7 +1,8 @@
 
 
-    <div style="margin:10rem 20rem;color:white;font-size:1.5em">
-        <table border="2">
+    <div >
+        <table>
+            <caption> LISTE DES JOUEURS </caption>
             <tr>
                 <th>Nom</th>
                 <th>Prenom</th>
@@ -11,9 +12,10 @@
                 <tr>
                     <td><?= $value['nom']?></td>
                     <td><?= $value['prenom'] ?></td>
-                    <td><?= $value['score'] ?></td>
+                    <td><?= $value['score'] ?> pts</td>
                 </tr>
             <?php endforeach ?>
         </table>
+        <button class="pagination" type="button" >Suivant</button>
 
     </div>
